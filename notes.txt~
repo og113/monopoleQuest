@@ -1,0 +1,5 @@
+installations:
+	- apache2: http web server
+	- mysql-server-5.5: database server
+	- php5: server-side scripting language
+	- drupal7: content management framework

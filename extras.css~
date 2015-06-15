@@ -1,0 +1,19 @@
+#container {
+    text-align: centre;
+}
+a, figure {
+	float: right;
+    display: inline-block;
+    cursor:pointer;
+}
+figcaption {
+    margin: 10px 0 0 0;
+    font-size: 6;
+}
+figure {
+    padding: 5px;
+    cursor:pointer;
+}
+img:hover{
+	cursor:pointer;
+}
